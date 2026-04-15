@@ -1,0 +1,10 @@
+ Console.WriteLine("=====================================================");
+ Console.WriteLine("            CYBERSECURITY AWARENESS BOT              ");
+ Console.WriteLine("=====================================================");
+ Console.WriteLine("                  [ SAFE ONLINE BOT ]                ");
+ Console.WriteLine("                     /-----------\\");
+ Console.WriteLine("                    |   0     0   |");
+ Console.WriteLine("                    |      ^      |");
+ Console.WriteLine("                    |     ---     |");
+ Console.WriteLine("                     \\___________/");
+ Console.WriteLine("=====================================================");
